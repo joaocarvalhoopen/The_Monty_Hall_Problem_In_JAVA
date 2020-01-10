@@ -27,7 +27,7 @@ After executing the program we obtain the following results.
 * Percentage of successes if we switch doors **66.691%**
 
 ## About the Monte Carlo method from Wikipedia
-This method is very powerful because of its simplicity and the history of this method is interesting. The description of Ulam is fantastic and I will cite it hear because it will help you not forgetting about this method. <br>
+This method is very powerful because of its simplicity and the history of this method is interesting. The description of Ulam is fantastic and I will cite it here because it will help you not forgetting about this method. <br>
 
 <br>
 “In 1946, physicists at Los Alamos Scientific Laboratory were investigating radiation shielding and the distance that neutrons would likely travel through various materials. Despite having most of the necessary data, such as the average distance a neutron would travel in a substance before it collided with an atomic nucleus, and how much energy the neutron was likely to give off following a collision, the Los Alamos physicists were unable to solve the problem using conventional, deterministic mathematical methods. Stanislaw Ulam had the idea of using random experiments. He recounts his inspiration as follows: <br>
